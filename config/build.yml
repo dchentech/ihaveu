@@ -1,0 +1,8 @@
+name: ihaveu
+load: lib/application.rb
+version: "1.0"
+icon: resources/ihaveu.icns
+resources:
+  - resources/**/*.*
+sources: 
+  - lib/**/*.rb
