@@ -1,0 +1,8 @@
+ihaveu client written in Hotcocoa.
+
+== INSTALL
+
+1. rvm install macruby
+2. rvm use macruby
+3. gem i hotcocoa
+4. rake run
